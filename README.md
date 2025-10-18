@@ -16,52 +16,50 @@
 
 ## About
 
-Just another developer writing code in the void.
+Backend developer. Writing code that works.
 
-Working with Node.js mostly. Express and NestJS are my tools. Python when I need to. Laravel when I have to.
+Currently working with Node.js, Express, and NestJS. Sometimes Python with Flask or Django. Learning Laravel on the side.
 
-**Stack:**
-- Node.js, Express, NestJS
-- Python, Flask, Django
-- PHP, Laravel
-- MongoDB, MySQL, PostgreSQL
-- Linux, Docker, NGINX
+**Tech Stack:**
+```
+Backend:    Node.js, Express, NestJS, Flask, Django, Laravel
+Databases:  MongoDB, MySQL, PostgreSQL
+Tools:      Linux, Docker, NGINX, Git, Bash
+Languages:  JavaScript, TypeScript, Python, PHP, C++
+```
 
-**Currently:**
-- Building APIs
-- Fixing bugs I probably created
-- Learning security stuff
-- Trying not to break production
+**What I do:**
+- Build and maintain APIs
+- Work on backend architecture
+- Security research and implementation
+- Fix bugs and optimize performance
+- Learn new tools and patterns
+
+**Philosophy:**
+> Code speaks louder than words. Make it work, make it right, make it fast.
 
 <br clear="both"/>
 
 ---
 
-## Stats
+## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4a4a4a&icon_color=4a4a4a&text_color=666666&border_radius=0" alt="Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=dark&hide_border=true&background=0D1117&stroke=4a4a4a&ring=4a4a4a&fire=4a4a4a&currStreakLabel=4a4a4a&border_radius=0&sideNums=666666&currStreakNum=666666&sideLabels=4a4a4a" alt="Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=666666&icon_color=555555&text_color=888888&border_radius=0&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=dark&hide_border=true&background=0D1117&stroke=555555&ring=666666&fire=666666&currStreakLabel=666666&border_radius=0&sideNums=888888&currStreakNum=888888&sideLabels=666666&dates=888888" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderyasser&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4a4a4a&text_color=666666&border_radius=0&langs_count=8" alt="Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderyasser&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=666666&text_color=888888&border_radius=0&langs_count=8" alt="Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=naderyasser&theme=github-compact&hide_border=true&bg_color=0D1117&color=555555&line=666666&point=888888&area=true&area_color=1a1a1a&radius=0" alt="Activity"/>
 </p>
-
----
-
-## Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naderyasser&theme=github-compact&hide_border=true&bg_color=0D1117&color=4a4a4a&line=4a4a4a&point=666666&area=true&area_color=1a1a1a" alt="Activity Graph"/>
-</div>
 
 ---
 
 <div align="center">
 
-### _"The thing that kills me the most about programming is when you know everything."_
-**— ThePrimeagen**
+### _"Software is like sex: it's better when it's free."_
+**— Linus Torvalds**
 
 </div>
 
