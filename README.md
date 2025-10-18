@@ -71,14 +71,18 @@ Backend engineer who loves building stuff that actually works. Currently deep in
 
 ---
 
-## Snake Game (Watch it eat my contributions!)
+## Contribution Graph
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naderyasser/naderyasser/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naderyasser/naderyasser/output/github-contribution-grid-snake.svg">
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/naderyasser/naderyasser/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naderyasser&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF" alt="Activity Graph"/>
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naderyasser&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
 ---
