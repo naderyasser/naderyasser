@@ -1,110 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nader%20Yasser&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a1a,0D1117&height=200&section=header&text=Nader%20Yasser&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=4a4a4a" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F4&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer;Node.js+Developer;Express+%7C+NestJS;Cybersecurity+Enthusiast;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=4A4A4A&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer;Node.js+%7C+Express+%7C+NestJS;Building+in+the+dark;Sometimes+things+break;Then+I+fix+them" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=naderyasser&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/naderyasser?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=naderyasser&label=views&color=1a1a1a&style=flat" alt="profile views" />
 </p>
 
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
-## Hey there! 
+## About
 
-Backend engineer who loves building stuff that actually works. Currently deep into Node.js ecosystem, messing around with security tools, and occasionally breaking production (then fixing it real quick).
+Just another developer writing code in the void.
 
-**What I'm up to:**
-- Building APIs that don't fall apart under pressure
-- Making things secure by default
-- Learning new patterns and architectures
-- Contributing to open source when I can
+Working with Node.js mostly. Express and NestJS are my tools. Python when I need to. Laravel when I have to.
 
-**Random facts:**
-- I think in JSON sometimes
-- Debugging is basically detective work
-- Coffee consumption directly correlates with code quality
-- Linux terminal > any GUI
+**Stack:**
+- Node.js, Express, NestJS
+- Python, Flask, Django
+- PHP, Laravel
+- MongoDB, MySQL, PostgreSQL
+- Linux, Docker, NGINX
+
+**Currently:**
+- Building APIs
+- Fixing bugs I probably created
+- Learning security stuff
+- Trying not to break production
 
 <br clear="both"/>
 
 ---
 
-## Tech I Work With
-
-**Backend Stuff**
-- Node.js (Express, NestJS)
-- Python (Flask, Django)  
-- PHP (Laravel - still learning this one)
-- GraphQL, REST APIs, WebSockets
-
-**Databases**
-- MongoDB
-- MySQL
-- PostgreSQL
-
-**Tools & Others**
-- Linux (daily driver)
-- Docker
-- NGINX
-- Git
-- Bash scripting
-- C++ (for the algorithm grind)
-
----
-
-## GitHub Stats
+## Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&icon_color=00F7F4&text_color=FFFFFF" alt="Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=radical&hide_border=true&background=0D1117&stroke=00F7F4&ring=00F7F4&fire=FF6D00&currStreakLabel=00F7F4" alt="Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=4a4a4a&icon_color=4a4a4a&text_color=666666&border_radius=0" alt="Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=dark&hide_border=true&background=0D1117&stroke=4a4a4a&ring=4a4a4a&fire=4a4a4a&currStreakLabel=4a4a4a&border_radius=0&sideNums=666666&currStreakNum=666666&sideLabels=4a4a4a" alt="Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderyasser&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F4&text_color=FFFFFF&langs_count=8" alt="Languages"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderyasser&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=4a4a4a&text_color=666666&border_radius=0&langs_count=8" alt="Languages"/>
 </p>
 
 ---
 
-## Contribution Graph
+## Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naderyasser&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F7F4&line=00F7F4&point=FFFFFF" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naderyasser&theme=github-compact&hide_border=true&bg_color=0D1117&color=4a4a4a&line=4a4a4a&point=666666&area=true&area_color=1a1a1a" alt="Activity Graph"/>
 </div>
 
 ---
 
-## GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naderyasser&theme=radical&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="Trophies"/>
+
+### _"The thing that kills me the most about programming is when you know everything."_
+**— ThePrimeagen**
+
 </div>
 
 ---
 
-## Let's Connect
-
-Hit me up if you want to talk about backend architecture, security stuff, or just nerd out about tech in general.
+## Find Me
 
 <p align="center">
-  <a href="https://dev.to/h4x0r"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
-  <a href="https://twitter.com/naderyasser023"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://www.instagram.com/naderyasser01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://dev.to/h4x0r"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=4a4a4a" alt="Dev.to"/></a>
+  <a href="https://twitter.com/naderyasser023"><img src="https://img.shields.io/badge/Twitter-0A0A0A?style=flat&logo=twitter&logoColor=4a4a4a" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/naderyasser01/"><img src="https://img.shields.io/badge/Instagram-0A0A0A?style=flat&logo=instagram&logoColor=4a4a4a" alt="Instagram"/></a>
 </p>
 
 ---
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a1a,0D1117&height=120&section=footer" width="100%"/>
 
 </div>
