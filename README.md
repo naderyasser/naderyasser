@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" alt="Creepy Theater" width="380" src="https://media.giphy.com/media/3o7TKqm1mNujcBPSpy/giphy.gif">
+<img align="right" alt="Theater Masks" width="380" src="https://i.pinimg.com/originals/fd/6c/f6/fd6cf61ad485847d4eb6e814de3b195e.gif">
 
 ## About
 
@@ -38,15 +38,17 @@ Languages:  JavaScript, TypeScript, Python, PHP, C++
 
 ---
 
-<img align="left" alt="Matrix Code" width="380" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+<img align="left" alt="Matrix Code" width="400" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 
 ## GitHub Stats
 
+<br><br>
+
 <p align="right">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=666666&icon_color=555555&text_color=888888&border_radius=0&include_all_commits=true&count_private=true" alt="Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=666666&icon_color=555555&text_color=888888&border_radius=0&include_all_commits=true&count_private=true" alt="Stats"/>
 </p>
 <p align="right">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=dark&hide_border=true&background=0D1117&stroke=555555&ring=666666&fire=666666&currStreakLabel=666666&border_radius=0&sideNums=888888&currStreakNum=888888&sideLabels=666666&dates=888888" alt="Streak"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=dark&hide_border=true&background=0D1117&stroke=555555&ring=666666&fire=666666&currStreakLabel=666666&border_radius=0&sideNums=888888&currStreakNum=888888&sideLabels=666666&dates=888888" alt="Streak"/>
 </p>
 
 <br clear="both"/>
@@ -60,26 +62,31 @@ Languages:  JavaScript, TypeScript, Python, PHP, C++
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 
-### _"Talk is cheap. Show me the code."_
-**— Linus Torvalds**
+<br><br>
 
-<br>
-
-```
+```javascript
 while(alive) {
     eat();
     sleep();
     code();
     repeat();
 }
-// TODO: fix infinite loop
-// TODO: add actual life
-// TODO: sleep is not implemented
+// Error: sleep() is not defined
+// TODO: fix bugs
+// TODO: fix life
+// Warning: Infinite loop detected
 ```
 
-### _Debugging: Being the detective in a crime movie where you are also the murderer._
+<br>
+
+### _"Software is like sex: it's better when it's free."_
+**— Linus Torvalds**
+
+<br>
+
+*"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."*
 
 </div>
 
