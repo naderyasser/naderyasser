@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a1a,0D1117&height=200&section=header&text=Nader%20Yasser&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=4a4a4a" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=4A4A4A&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer;Node.js+%7C+Express+%7C+NestJS;Building+in+the+dark;Sometimes+things+break;Then+I+fix+them" alt="Typing SVG" />
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=naderyasser&label=views&color=1a1a1a&style=flat" alt="profile views" />
 </p>
@@ -48,16 +50,19 @@ currently building stuff with nodejs, express, and nestjs. sometimes i touch pyt
 </p>
 
 ---
-
 ```js
 // pretty much sums up my existence
-while (alive) {
-  eat();
-  code();
-  debug(); // this takes 80% of the time
-  sleep(); // ReferenceError: sleep is not defined
-  repeat(); // but why tho
+const life = async () => {
+  while (alive) {
+    await eat();
+    await code();
+    await debug(); // this takes 80% of the time
+    // await sleep(); // ReferenceError: sleep is not defined
+    continue; // because we never learn
+  }
 }
+
+// Runtime Error: Maximum call stack size exceeded (living too hard)
 // TODO: fix this loop
 // TODO: actually sleep
 // TODO: find meaning in life (low priority)
