@@ -70,28 +70,24 @@ building stuff that breaks the system. laravel when php bleeds. django/flask whe
 
 ---
 
-### 📊 // STATISTICS ARE FOR THOSE WHO BELIEVE IN THEM
+### 📊 github stats
 
 <div align="center">
 
-<a href="https://github.com/naderyasser">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=8B0000&icon_color=8B0000&text_color=666666&include_all_commits=true&count_private=true&border_radius=0"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderyasser&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=8B0000&text_color=666666&langs_count=8&border_radius=0"/>
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=8B0000&icon_color=8B0000&text_color=666666&include_all_commits=true&count_private=true)](https://github.com/naderyasser)
 
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naderyasser&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=8B0000&text_color=666666&langs_count=8)](https://github.com/naderyasser)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=dark&hide_border=true&background=0D0D0D&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideNums=666666&currStreakNum=8B0000&sideLabels=8B0000&dates=666666&border_radius=0" alt="streak"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=dark&hide_border=true&background=0D0D0D&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideNums=666666&currStreakNum=8B0000&sideLabels=8B0000&dates=666666)](https://github.com/naderyasser)
 
 </div>
 
 ---
 
 ```javascript
-// PROJECT MAYHEM - BACKEND DIVISION
 class ProjectMayhem {
   constructor() {
-    this.sleep = null; // sleep is for the weak
+    this.sleep = null;
     this.frameworks = ['Laravel', 'Django', 'Flask', 'NestJS'];
   }
 
@@ -103,21 +99,16 @@ class ProjectMayhem {
     if (Math.random() > 0.5) {
       console.log("We shipped it. Chaos reigns.");
     } else {
-      this.destroyAndRebuild(); // eternal loop
+      this.destroyAndRebuild();
     }
   }
 
   burnLegacyCode() {
-    // rm -rf /* // just kidding... or am I?
     console.log("You are not your bug count.");
   }
 }
 
-// His name was Robert Paulson
 const tyler = new ProjectMayhem();
-// tyler.destroyAndRebuild();
-
-/* WARNING: This is your life, and it's ending one commit at a time. */
 ```
 
 ---
