@@ -129,21 +129,24 @@ const tyler = new ProjectMayhem();
 
 <div align="center">
 
-### 🔥 // THE COMMIT HISTORY YOU DESERVE
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naderyasser/naderyasser/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naderyasser/naderyasser/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/naderyasser/naderyasser/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://i.imgur.com/8vqQa5K.png" width="300" alt="Fight Club Soap">
+```
+    ┌─────────────────────────────────┐
+    │                                 │
+    │      FIGHT CLUB SOAP CO.        │
+    │                                 │
+    │     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄       │
+    │    ██░░░░░░░░░░░░░░░░░░░██      │
+    │   ██░░░░░░░░░░░░░░░░░░░░░██     │
+    │  ██░░░░░  PROJECT  ░░░░░░░██    │
+    │  ██░░░░░  MAYHEM   ░░░░░░░██    │
+    │  ██░░░░░            ░░░░░░██    │
+    │   ██░░░░░  SOAP   ░░░░░░██      │
+    │    ██░░░░░░░░░░░░░░░░░░██       │
+    │     ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀        │
+    │                                 │
+    │   "We make & sell soap"         │
+    └─────────────────────────────────┘
+```
 
 ### *"The first rule of Fight Club is: You do not talk about Fight Club"*
 ### *"You are not your GitHub stars. You are not your commit count."*
