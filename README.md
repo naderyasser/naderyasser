@@ -1,15 +1,10 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,1a1a1a,0D1117&height=200&section=header&text=Nader%20Yasser&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=4a4a4a" />
 
-<!-- Laravel Animated Logo -->
-<img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=FF2D20&center=true&vCenter=true&random=false&width=500&lines=Backend+Developer;PHP+%7C+Laravel+Artisan;Eloquent+ORM+Wizard;Building+APIs+in+the+dark;Queue+Jobs+%26+Redis+Cache" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=4A4A4A&center=true&vCenter=true&random=false&width=600&lines=Backend+Developer;Laravel+%7C+Django+%7C+Flask;Node.js+%7C+Express+%7C+NestJS;Building+APIs+in+the+dark;Sometimes+things+break" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=naderyasser&label=views&color=FF2D20&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://komarev.com/ghpvc/?username=naderyasser&label=views&color=1a1a1a&style=flat" alt="profile views" />
 </p>
 </div>
 
@@ -25,22 +20,22 @@
 
 backend developer who actually enjoys debugging at 3am (questionable life choices, i know).
 
-currently building stuff with php and laravel. eloquent orm is my best friend and artisan commands are my daily bread.
+building stuff with whatever framework makes sense for the job. laravel when php is the move, django/flask when python fits better, node.js when javascript is needed.
 
 **the usual stack:**
-- 🔴 **backend:** php, laravel
-- 🗄️ **databases:** mysql, postgresql, redis
-- 🛠️ **tools:** linux, docker, nginx, git, bash, composer
-- 💻 **languages:** php, javascript, bash, sql
+- 🔧 **frameworks:** laravel, django, flask, express, nestjs
+- 🗄️ **databases:** mysql, postgresql, mongodb, redis
+- 🛠️ **tools:** linux, docker, nginx, git, bash, composer, pip
+- 💻 **languages:** php, python, javascript, typescript, bash
 
 **what i actually do:**
-- build restful apis with laravel that (hopefully) don't crash
-- architect backend systems using laravel's magic
-- security stuff with middleware and policies
-- fix n+1 queries before they become problems
-- optimize eloquent when it gets too comfortable
+- build restful apis that (hopefully) don't crash
+- architect backend systems with the right tool for the job
+- security stuff with middleware, decorators, and policies
+- fix bugs that shouldn't exist but somehow do
+- optimize queries when orms get too comfortable
 - queue jobs because async is life
-- cache everything with redis because speed matters
+- cache everything because speed matters
 
 <br clear="both"/>
 
@@ -50,7 +45,7 @@ currently building stuff with php and laravel. eloquent orm is my best friend an
 
 ### 🛠️ tech stack & tools
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,redis,docker,nginx,linux,git,bash,postman,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django,flask,nodejs,express,nest,js,ts,mysql,postgresql,mongodb,redis,docker,nginx,linux,git,bash,postman,vscode&perline=7" />
 
 </div>
 
@@ -58,60 +53,68 @@ currently building stuff with php and laravel. eloquent orm is my best friend an
 
 ### 📊 stats or whatever
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D20&icon_color=FF2D20&text_color=888888&border_radius=0&include_all_commits=true&count_private=true" alt="stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=dark&hide_border=true&background=0D1117&stroke=555555&ring=FF2D20&fire=FF2D20&currStreakLabel=FF2D20&border_radius=0&sideNums=888888&currStreakNum=888888&sideLabels=666666&dates=888888" alt="streak"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderyasser&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D20&text_color=888888&border_radius=0&langs_count=8" alt="langs"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=naderyasser&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF2D20&line=FF2D20&point=888888" alt="activity"/>
-</p>
-
----
-
 <div align="center">
 
-### ⚡ quick laravel facts
+<a href="https://github.com/naderyasser">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=666666&icon_color=555555&text_color=888888&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderyasser&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=666666&text_color=888888&langs_count=8"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=naderyasser&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF2D20&text_color=888888&custom_title=Weekly%20Coding%20Time" alt="coding time" width="50%"/>
+</div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=dark&hide_border=true&background=0D1117&stroke=555555&ring=666666&fire=666666&currStreakLabel=666666&sideNums=888888&currStreakNum=888888&sideLabels=666666&dates=888888" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naderyasser&theme=github_dark" alt="Profile Summary"/>
 </div>
 
 ---
 
-```php
-<?php
-
-namespace App\Life;
-
-class Developer
-{
-    private bool $alive = true;
-    
-    public function live(): void
-    {
-        while ($this->alive) {
-            $this->eat();
-            $this->code();
-            $this->debug(); // this takes 80% of the time
-            // $this->sleep(); // Fatal error: Call to undefined function sleep()
-            
-            continue; // because we never learn
-        }
-    }
-    
-    private function debug(): void
-    {
-        // dd($bug); // dump and die (the Laravel way)
-        // but we never actually die, we just keep debugging
-    }
+```js
+// pretty much sums up my existence
+const life = async () => {
+  while (alive) {
+    await eat();
+    await code();
+    await debug(); // this takes 80% of the time
+    // await sleep(); // ReferenceError: sleep is not defined
+    continue; // because we never learn
+  }
 }
 
-// Fatal error: Maximum execution time exceeded (living too hard)
-// TODO: php artisan queue:work life --tries=∞
-// TODO: actually sleep
+// Runtime Error: Maximum call stack size exceeded (living too hard)
+// TODO: fix this loop
+// TODO: actually sleep  
 // TODO: find meaning in life (low priority)
+```
+
+```python
+# or in python because why not
+def life():
+    while True:
+        eat()
+        code()
+        debug()  # still takes 80% of the time
+        # sleep()  # NameError: name 'sleep' is not defined
+        continue  # yep, never learning
+
+# RecursionError: maximum recursion depth exceeded
+# TODO: learn to rest
+```
+
+```php
+<?php
+// or when feeling fancy with php
+while ($alive) {
+    eat();
+    code();
+    debug(); // guess what? 80% of the time
+    // sleep(); // Fatal error: Call to undefined function sleep()
+    continue; // the cycle never ends
+}
+// Fatal error: Maximum execution time exceeded
 ```
 
 <div align="center">
