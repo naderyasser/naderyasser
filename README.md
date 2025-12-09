@@ -74,79 +74,50 @@ building stuff that breaks the system. laravel when php bleeds. django/flask whe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=8B0000&icon_color=8B0000&text_color=666666&include_all_commits=true&count_private=true&border_radius=0" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderyasser&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=8B0000&text_color=666666&langs_count=8&border_radius=0" height="170"/>
+<a href="https://github.com/naderyasser">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=8B0000&icon_color=8B0000&text_color=666666&include_all_commits=true&count_private=true&border_radius=0"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderyasser&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=8B0000&text_color=666666&langs_count=8&border_radius=0"/>
+</a>
 
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=dark&hide_border=true&background=0D0D0D&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideNums=666666&currStreakNum=8B0000&sideLabels=8B0000&dates=666666&border_radius=0" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=dark&hide_border=true&background=0D0D0D&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideNums=666666&currStreakNum=8B0000&sideLabels=8B0000&dates=666666&border_radius=0" alt="streak"/>
+
 </div>
 
 ---
 
 ```javascript
-/**
- * PROJECT MAYHEM - BACKEND DIVISION
- * "I am Jack's medulla oblongata"
- */
-
+// PROJECT MAYHEM - BACKEND DIVISION
 class ProjectMayhem {
   constructor() {
-    this.name = "You are not your fucking framework";
     this.sleep = null; // sleep is for the weak
-    this.frameworks = ['Laravel', 'Django', 'Flask', 'NestJS', 'Express'];
-    this.philosophy = "Self-improvement is masturbation. Self-destruction is the answer.";
+    this.frameworks = ['Laravel', 'Django', 'Flask', 'NestJS'];
   }
 
   destroyAndRebuild() {
-    // First, you destroy your legacy code
-    this.burnItDown();
+    this.burnLegacyCode();
+    const weapon = this.frameworks[Math.floor(Math.random() * this.frameworks.length)];
+    this.build(weapon);
     
-    // Then, from the ashes...
-    const framework = this.chooseWeapon();
-    this.build(framework);
-    
-    // Test in production because YOLO
-    if (this.itWorks()) {
-      console.log("We are the middle children of history, but we shipped it.");
+    if (Math.random() > 0.5) {
+      console.log("We shipped it. Chaos reigns.");
     } else {
-      console.log("It's only after we've lost everything that we're free to refactor.");
-      this.destroyAndRebuild(); // chaos loop
+      this.destroyAndRebuild(); // eternal loop
     }
   }
 
-  chooseWeapon() {
-    // Pick your poison
-    return this.frameworks[Math.floor(Math.random() * this.frameworks.length)];
-  }
-
-  burnItDown() {
-    // rm -rf /* // Just kidding... or am I?
+  burnLegacyCode() {
+    // rm -rf /* // just kidding... or am I?
     console.log("You are not your bug count.");
-  }
-
-  itWorks() {
-    // In Project Mayhem, nothing truly "works"
-    return Math.random() > 0.5; // Schrödinger's deploy
   }
 }
 
 // His name was Robert Paulson
-// His name was Robert Paulson
-// His name was Robert Paulson
-
 const tyler = new ProjectMayhem();
 // tyler.destroyAndRebuild();
 
-/**
- * WARNING: This is your life, and it's ending one commit at a time.
- * 
- * TODO: Stop trying to be perfect
- * TODO: Embrace the chaos
- * TODO: Ship broken things (they'll fix themselves... or not)
- * TODO: Sleep is a social construct
- */
+/* WARNING: This is your life, and it's ending one commit at a time. */
 ```
 
 ---
