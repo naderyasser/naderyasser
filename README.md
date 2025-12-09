@@ -70,18 +70,6 @@ building stuff that breaks the system. laravel when php bleeds. django/flask whe
 
 ---
 
-### 📊 github stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=8B0000&icon_color=8B0000&text_color=666666&include_all_commits=true&count_private=true)](https://github.com/naderyasser)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naderyasser&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0D&title_color=8B0000&text_color=666666&langs_count=8)](https://github.com/naderyasser)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=dark&hide_border=true&background=0D0D0D&stroke=8B0000&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideNums=666666&currStreakNum=8B0000&sideLabels=8B0000&dates=666666)](https://github.com/naderyasser)
-
-</div>
-
 ---
 
 ```javascript
@@ -155,19 +143,13 @@ const tyler = new ProjectMayhem();
 
 <div align="center">
 
-```
-██████╗ ██████╗  ██████╗      ██╗███████╗ ██████╗████████╗    ███╗   ███╗ █████╗ ██╗   ██╗██╗  ██╗███████╗███╗   ███╗
-██╔══██╗██╔══██╗██╔═══██╗     ██║██╔════╝██╔════╝╚══██╔══╝    ████╗ ████║██╔══██╗╚██╗ ██╔╝██║  ██║██╔════╝████╗ ████║
-██████╔╝██████╔╝██║   ██║     ██║█████╗  ██║        ██║       ██╔████╔██║███████║ ╚████╔╝ ███████║█████╗  ██╔████╔██║
-██╔═══╝ ██╔══██╗██║   ██║██   ██║██╔══╝  ██║        ██║       ██║╚██╔╝██║██╔══██║  ╚██╔╝  ██╔══██║██╔══╝  ██║╚██╔╝██║
-██║     ██║  ██║╚██████╔╝╚█████╔╝███████╗╚██████╗   ██║       ██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║███████╗██║ ╚═╝ ██║
-╚═╝     ╚═╝  ╚═╝ ╚═════╝  ╚════╝ ╚══════╝ ╚═════╝   ╚═╝       ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝
-```
+<img src="https://i.imgur.com/8vqQa5K.png" width="300" alt="Fight Club Soap">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1a0000,0D0D0D&height=120&section=footer" width="100%"/>
-
+### *"The first rule of Fight Club is: You do not talk about Fight Club"*
 ### *"You are not your GitHub stars. You are not your commit count."*
 ### *"You are the all-singing, all-dancing crap of the world."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1a0000,0D0D0D&height=120&section=footer" width="100%"/>
 
 **⭐ His name was [naderyasser](https://github.com/naderyasser) ⭐**
 
