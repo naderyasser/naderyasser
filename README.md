@@ -18,12 +18,7 @@
 ```
 1st RULE: You do not talk about FIGHT CLUB.
 2nd RULE: You DO NOT talk about FIGHT CLUB.
-3rd RULE: If someone says "stop" or goes limp, taps out, the fight is over.
-4th RULE: Only two frameworks per project.
-5th RULE: One commit at a time, fellas.
-6th RULE: No shirts, no shoes (just code).
-7th RULE: Deploys will go on as long as they have to.
-8th RULE: If this is your first night at FIGHT CLUB, you HAVE to code.
+
 ```
 
 </div>
@@ -129,24 +124,7 @@ const tyler = new ProjectMayhem();
 
 <div align="center">
 
-```
-    ┌─────────────────────────────────┐
-    │                                 │
-    │      FIGHT CLUB SOAP CO.        │
-    │                                 │
-    │     ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄       │
-    │    ██░░░░░░░░░░░░░░░░░░░██      │
-    │   ██░░░░░░░░░░░░░░░░░░░░░██     │
-    │  ██░░░░░  PROJECT  ░░░░░░░██    │
-    │  ██░░░░░  MAYHEM   ░░░░░░░██    │
-    │  ██░░░░░            ░░░░░░██    │
-    │   ██░░░░░  SOAP   ░░░░░░██      │
-    │    ██░░░░░░░░░░░░░░░░░░██       │
-    │     ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀        │
-    │                                 │
-    │   "We make & sell soap"         │
-    └─────────────────────────────────┘
-```
+
 
 ### *"The first rule of Fight Club is: You do not talk about Fight Club"*
 ### *"You are not your GitHub stars. You are not your commit count."*
