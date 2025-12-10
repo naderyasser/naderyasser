@@ -4,6 +4,7 @@ Backend Developer | Laravel · Django · Flask
 
 [![Twitter](https://img.shields.io/badge/-@naderyasser023-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/naderyasser023)
 [![Instagram](https://img.shields.io/badge/-naderyasser01-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/naderyasser01/)
+[![LinkedIn](https://img.shields.io/badge/-Nader_Yasser-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naderyasser)
 
 ---
 
@@ -11,52 +12,49 @@ Backend Developer | Laravel · Django · Flask
 
 ## About
 
-Backend developer focused on building reliable APIs and scalable systems. I work primarily with Laravel, Django, and Flask depending on what fits the project best.
+Backend developer specializing in building scalable APIs and robust systems. I work with Laravel, Django, and Flask to deliver high-performance solutions.
 
-Currently working on fraud detection systems and mobile app backends.
+Experience in fraud detection systems, mobile app backends, and API development for Android/iOS applications.
 
-## Tech I work with
+## Technical Skills
 
-**Backend**
+**Backend Development**
 - PHP (Laravel)
 - Python (Django, Flask)
 
-**Databases**
+**Database Management**
 - MySQL, PostgreSQL
 - MongoDB
 - Redis
 
-**DevOps & Tools**
+**DevOps & Infrastructure**
 - Docker
 - Linux (Ubuntu/Debian)
 - Nginx
-- Git
+- Git, CI/CD
 
 <br clear="both"/>
 
 ---
 
-## What I do
+## Services
 
-- Build RESTful APIs
-- Design database schemas
-- Optimize queries and caching
-- Deploy and maintain production servers
-- Write tests (when I remember to)
+- RESTful API Development
+- Database Design & Optimization
+- System Architecture
+- Performance Optimization & Caching
+- Server Deployment & Maintenance
+- Mobile Backend Integration
 
-## Recent Projects
+## Current Work
 
-Working on:
-- Fraud detection ML system with RandomForest/XGBoost
-- Android/iOS app backends
-- API integrations for mobile apps
-
-## Stats
-
-![](https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=dark&count_private=true)
+- Machine Learning Systems (Fraud Detection with RandomForest/XGBoost)
+- Android & iOS App Backends
+- API Integrations & Third-party Services
+- Google Play Console & App Store Management
 
 ---
 
-**Status:** Available for freelance work
+**Availability:** Open for freelance projects and collaborations
 
-**Contact:** DM me on Twitter or Instagram
+**Contact:** Reach out via Twitter or Instagram
