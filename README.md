@@ -1,55 +1,34 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1a0000,0D0D0D&height=200&section=header&text=Nader%20Yasser&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=8B0000" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=24&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&random=false&width=700&lines=His+name+was+Robert+Paulson;Backend+Developer;Laravel+%7C+Django+%7C+Flask+%7C+Node.js;You+are+not+your+fucking+code;The+things+you+own+end+up+owning+you;I+am+Jack's+complete+lack+of+sleep" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=24&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&random=false&width=700&lines=Backend+Developer;Laravel+%7C+Django+%7C+Flask+%7C+Node.js;Building+Scalable+Systems;Clean+Code+Enthusiast" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=naderyasser&label=PROJECT%20MAYHEM%20VIEWS&color=8B0000&style=flat-square" alt="views" />
-  <img src="https://img.shields.io/badge/Status-Breaking%20Things-8B0000?style=flat-square" alt="status" />
+  <img src="https://komarev.com/ghpvc/?username=naderyasser&label=Profile%20Views&color=8B0000&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-8B0000?style=flat-square" alt="status" />
 </p>
 </div>
 
 ---
 
-<div align="center">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### ⚠️ FIGHT CLUB RULES ⚠️
+### 👨‍💻 About Me
 
-```
-1st RULE: You do not talk about FIGHT CLUB.
-2nd RULE: You DO NOT talk about FIGHT CLUB.
+Backend Developer with expertise in building robust, scalable web applications and APIs. Passionate about clean architecture, performance optimization, and delivering high-quality solutions.
 
-```
+**Core Competencies:**
+- 🏗️ **System Architecture:** Designing scalable and maintainable backend systems
+- 🔧 **API Development:** RESTful APIs and microservices architecture
+- 📊 **Database Design:** Optimization and performance tuning
+- 🚀 **DevOps:** CI/CD pipelines, containerization, and deployment automation
+- 🔒 **Security:** Best practices in authentication and data protection
 
-</div>
-
----
-
-<img align="right" alt="Glitch" width="350" src="https://i.pinimg.com/originals/fd/6c/f6/fd6cf61ad485847d4eb6e814de3b195e.gif" style="filter: grayscale(100%) contrast(150%);">
-
-### // PROJECT MAYHEM
-
-backend developer. insomniac. anarchist (of clean code).
-
-> *"It's only after we've lost everything that we're free to do anything."*
-
-building stuff that breaks the system. laravel when php bleeds. django/flask when python speaks. node.js when javascript screams.
-
-**// THE ARSENAL:**
-- 💥 **frameworks:** laravel, django, flask, express, nestjs
-- 🗄️ **databases:** mysql, postgresql, mongodb, redis
-- 🔧 **weapons:** linux, docker, nginx, git, bash
-- 💻 **languages:** php, python, javascript, typescript
-
-**// WHAT I DESTROY AND REBUILD:**
-- architect systems that actually work (chaos has rules)
-- write apis that don't crash at 3am
-- optimize queries until they break
-- fix bugs that shouldn't exist
-- deploy to production on fridays (because fuck it)
-- cache everything. trust nothing.
-
-> *"The things you own end up owning you."* — but not my code.
+**Technical Expertise:**
+- 💻 **Languages:** PHP, Python, JavaScript, TypeScript
+- 🎯 **Frameworks:** Laravel, Django, Flask, Express.js, NestJS
+- 🗄️ **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- 🛠️ **Tools & Technologies:** Docker, Nginx, Linux, Git, AWS/Cloud Services
 
 <br clear="both"/>
 
@@ -57,66 +36,73 @@ building stuff that breaks the system. laravel when php bleeds. django/flask whe
 
 <div align="center">
 
-### 🥊 TECH STACK // WEAPONS OF MASS CONSTRUCTION
+### 🛠️ Technology Stack
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,django,flask,nodejs,express,nest,js,ts,mysql,postgresql,mongodb,redis,docker,nginx,linux,git,bash,postman,vscode&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django,flask,nodejs,express,nest,js,ts,mysql,postgresql,mongodb,redis,docker,nginx,linux,git,aws,postman&perline=7&theme=dark" />
 
 </div>
 
 ---
 
+### 💼 Professional Experience
+
+**What I Deliver:**
+- ✅ Scalable backend architectures that handle high traffic
+- ✅ Clean, maintainable, and well-documented code
+- ✅ Optimized database queries and caching strategies
+- ✅ Secure API endpoints with proper authentication
+- ✅ Automated testing and CI/CD pipelines
+- ✅ Performance monitoring and optimization
+
+**Development Approach:**
+- Agile methodologies and best practices
+- Test-driven development (TDD)
+- Code review and quality assurance
+- Continuous learning and improvement
+
 ---
 
-```javascript
-class ProjectMayhem {
-  constructor() {
-    this.sleep = null;
-    this.frameworks = ['Laravel', 'Django', 'Flask', 'NestJS'];
-  }
+### 📈 GitHub Statistics
 
-  destroyAndRebuild() {
-    this.burnLegacyCode();
-    const weapon = this.frameworks[Math.floor(Math.random() * this.frameworks.length)];
-    this.build(weapon);
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=8B0000&icon_color=8B0000" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naderyasser&theme=radical&hide_border=true&background=0D0D0D&ring=8B0000&fire=8B0000&currStreakLabel=8B0000" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🎯 Current Focus
+```php
+class ProfessionalDeveloper {
+    private $currentFocus = [
+        'learning' => ['Microservices Architecture', 'Cloud Technologies', 'System Design'],
+        'building' => ['Enterprise Solutions', 'Scalable APIs', 'Performance Optimization'],
+        'contributing' => ['Open Source Projects', 'Technical Documentation']
+    ];
     
-    if (Math.random() > 0.5) {
-      console.log("We shipped it. Chaos reigns.");
-    } else {
-      this.destroyAndRebuild();
+    public function buildSolution($requirements) {
+        $this->analyze($requirements);
+        $this->design($requirements);
+        $this->implement();
+        $this->test();
+        $this->deploy();
+        return $this->optimize();
     }
-  }
-
-  burnLegacyCode() {
-    console.log("You are not your bug count.");
-  }
 }
-
-const tyler = new ProjectMayhem();
 ```
 
 ---
 
 <div align="center">
 
-### 💭 // I AM JACK'S BROKEN CODE
+### 📫 Let's Connect
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=It's%20only%20after%20we've%20lost%20everything%20that%20we're%20free%20to%20do%20anything&author=Tyler%20Durden)
-
-</div>
-
----
-
-<div align="center">
-
-### 🌐 // CONTACT PROJECT MAYHEM
-
-[![Dev.to](https://img.shields.io/badge/dev.to-0D0D0D?style=for-the-badge&logo=devdotto&logoColor=8B0000)](https://dev.to/h4x0r)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=8B0000)](https://linkedin.com/in/naderyasser)
 [![Twitter](https://img.shields.io/badge/Twitter-0D0D0D?style=for-the-badge&logo=twitter&logoColor=8B0000)](https://twitter.com/naderyasser023)
-[![Instagram](https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=8B0000)](https://www.instagram.com/naderyasser01/)
+[![Email](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=8B0000)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=google-chrome&logoColor=8B0000)](https://yourportfolio.com)
 
-> *"You met me at a very strange time in my life."*
-
-*P.S. - If this is your first night at the repo, you HAVE to fork.*
+**Open to opportunities and collaborations**
 
 </div>
 
@@ -124,16 +110,12 @@ const tyler = new ProjectMayhem();
 
 <div align="center">
 
-
-
-### *"The first rule of Fight Club is: You do not talk about Fight Club"*
-### *"You are not your GitHub stars. You are not your commit count."*
-### *"You are the all-singing, all-dancing crap of the world."*
+### 💡 "Clean code always looks like it was written by someone who cares"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,1a0000,0D0D0D&height=120&section=footer" width="100%"/>
 
-**⭐ His name was [naderyasser](https://github.com/naderyasser) ⭐**
+⭐ **[Nader Yasser](https://github.com/naderyasser)** - Backend Developer ⭐
 
-*Welcome to Fight Club. The first rule is...*
+*Building solutions that make a difference*
 
 </div>
