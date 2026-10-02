@@ -31,6 +31,8 @@ servers, monitoring — and I keep them running.
 
 ## Selected work
 
+Every project below has a longer write-up in **[case-studies](https://github.com/naderyasser/case-studies)**.
+
 ### SaaS & AI
 
 #### [White-label Learning Platforms — el3aref.com](https://el3aref.com)
@@ -43,7 +45,9 @@ online and transfer payments, centre attendance, parent reports and an AI study 
 - AI study assistant with hybrid RAG over the syllabus + web search, quota per platform
 - **≈93k lines of Python · 2,200+ automated tests · CI deploys with no downtime**
 
-`Django` `DRF` `PostgreSQL` `Redis` `Celery` `Next.js` `Cloudflare R2` `Docker`
+`Django` `DRF` `PostgreSQL` `Redis` `Celery` `Next.js` `Cloudflare R2` `Docker` · **[Full case study →](https://github.com/naderyasser/case-studies/blob/main/01-learning-platforms-saas.md)**
+
+<a href="https://github.com/naderyasser/case-studies/blob/main/01-learning-platforms-saas.md"><img src="https://raw.githubusercontent.com/naderyasser/case-studies/main/images/learning-platform-home.png" width="640" alt="Screenshot"></a>
 
 #### [AI Customs Import Advisor](https://customs.educore.software)
 Ask "can I import product X?" in plain Arabic and get the HS code, required approvals, bans,
@@ -51,7 +55,9 @@ duties and documents — **from official sources only, with citations**. The mod
 answer from memory: every code, approval and rate must come from a tool call in the same
 conversation, and the server checks that before saving the answer.
 
-`Python` `RAG` `Tool calling` `Embeddings` `Evaluation sets`
+`Python` `RAG` `Tool calling` `Embeddings` `Evaluation sets` · **[Full case study →](https://github.com/naderyasser/case-studies/blob/main/02-customs-import-advisor.md)**
+
+<a href="https://github.com/naderyasser/case-studies/blob/main/02-customs-import-advisor.md"><img src="https://raw.githubusercontent.com/naderyasser/case-studies/main/images/customs-advisor.png" width="640" alt="Screenshot"></a>
 
 ### ERP & business systems
 
@@ -60,14 +66,14 @@ One platform serving many companies, each on its own subdomain with its own bran
 payroll, biometric attendance, inventory, sales, purchases, accounting, a cashier (POS) and tasks —
 plus a REGA-compliant real-estate marketplace built on the same core.
 
-`Frappe / ERPNext` `Next.js` `React` `TypeScript` `Multi-tenant`
+`Frappe / ERPNext` `Next.js` `React` `TypeScript` `Multi-tenant` · **[Full case study →](https://github.com/naderyasser/case-studies/blob/main/04-business-erp.md)**
 
 #### Property Management for Saudi Real Estate
 The full rental lifecycle in one system: properties, contracts (create, renew, terminate),
 **ZATCA-compliant tax invoices** with QR codes and Arabic PDFs, Hijri dates, partial payments by
 cash, transfer or cheque, and tenant accounts.
 
-`Arabic RTL` `ZATCA` `Hijri calendar` `PDF` `PostgreSQL`
+`Arabic RTL` `ZATCA` `Hijri calendar` `PDF` `PostgreSQL` · **[Full case study →](https://github.com/naderyasser/case-studies/blob/main/05-property-management.md)**
 
 #### Multi-branch Gym ERP + members' app
 Members, subscriptions, check-ins, branches, staff, finance, sales targets, bookings, recurring
@@ -76,21 +82,21 @@ Three repositories: backend, staff dashboard and a members' PWA.
 
 - **≈36.5k lines of Python across 16 Django apps · 1,200+ tests · ≈16k lines of React/TypeScript**
 
-`Django` `React` `TypeScript` `PWA` `PostgreSQL`
+`Django` `React` `TypeScript` `PWA` `PostgreSQL` · **[Full case study →](https://github.com/naderyasser/case-studies/blob/main/03-gym-erp.md)**
 
 #### [Education Centre Management (Bedaya)](https://github.com/naderyasser/SYSeducore)
 Back office for tutoring centres: student files with barcode ID cards, group timetables that
 detect room clashes, attendance by scanning a code, monthly fees with teacher settlements,
 automatic WhatsApp reminders, and attendance/finance reports. **982 automated tests.**
 
-`Django 5` `DRF` `PostgreSQL` `Redis` `Celery` `PWA`
+`Django 5` `DRF` `PostgreSQL` `Redis` `Celery` `PWA` · **[Full case study →](https://github.com/naderyasser/case-studies/blob/main/06-education-centre.md)**
 
 #### [Biometric Attendance — desktop edition](https://github.com/naderyasser/meena-time)
 A one-time-purchase Windows app with the same rules as the cloud attendance system: reads ZKTeco
 fingerprint devices over TCP/UDP, works fully offline on a local SQLite file, and exports Excel and
 PDF reports.
 
-`Electron` `SQLite` `ZKTeco` `Excel / PDF`
+`Electron` `SQLite` `ZKTeco` `Excel / PDF` · **[Full case study →](https://github.com/naderyasser/case-studies/blob/main/07-attendance-desktop.md)**
 
 ### Open source
 
