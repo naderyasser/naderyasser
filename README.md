@@ -79,10 +79,11 @@ Three repositories: backend, staff dashboard and a members' PWA.
 `Django` `React` `TypeScript` `PWA` `PostgreSQL`
 
 #### [Education Centre Management (Bedaya)](https://github.com/naderyasser/SYSeducore)
-Back office for tutoring centres: students, groups, schedules, attendance, monthly fees and
-arrears, teachers' shares and reports. **982 automated tests.**
+Back office for tutoring centres: student files with barcode ID cards, group timetables that
+detect room clashes, attendance by scanning a code, monthly fees with teacher settlements,
+automatic WhatsApp reminders, and attendance/finance reports. **982 automated tests.**
 
-`Django 5` `PostgreSQL` `Excel exports`
+`Django 5` `DRF` `PostgreSQL` `Redis` `Celery` `PWA`
 
 #### [Biometric Attendance — desktop edition](https://github.com/naderyasser/meena-time)
 A one-time-purchase Windows app with the same rules as the cloud attendance system: reads ZKTeco
