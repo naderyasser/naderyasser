@@ -48,7 +48,7 @@ online and transfer payments, centre attendance, parent reports and an AI study 
 
 `Django` `DRF` `PostgreSQL` `Redis` `Celery` `Next.js` `Cloudflare R2` `Docker` · **[Full case study →](https://github.com/naderyasser/case-studies/blob/main/01-learning-platforms-saas.md)**
 
-<a href="https://github.com/naderyasser/case-studies/blob/main/01-learning-platforms-saas.md"><img src="https://raw.githubusercontent.com/naderyasser/case-studies/main/images/learning-platform-home.png" width="640" alt="Screenshot"></a>
+<a href="https://github.com/naderyasser/case-studies/blob/main/01-learning-platforms-saas.md"><img src="https://raw.githubusercontent.com/naderyasser/case-studies/main/images/learning-platform-home.png" width="640" alt="Al-Aref"></a>
 
 #### [AI Customs Import Advisor](https://customs.educore.software)
 Ask "can I import product X?" in plain Arabic and get the HS code, required approvals, bans,
@@ -58,7 +58,7 @@ conversation, and the server checks that before saving the answer.
 
 `Python` `RAG` `Tool calling` `Embeddings` `Evaluation sets` · **[Full case study →](https://github.com/naderyasser/case-studies/blob/main/02-customs-import-advisor.md)**
 
-<a href="https://github.com/naderyasser/case-studies/blob/main/02-customs-import-advisor.md"><img src="https://raw.githubusercontent.com/naderyasser/case-studies/main/images/customs-advisor.png" width="640" alt="Screenshot"></a>
+<a href="https://github.com/naderyasser/case-studies/blob/main/02-customs-import-advisor.md"><img src="https://raw.githubusercontent.com/naderyasser/case-studies/main/images/customs-advisor.png" width="640" alt="Al-Aref"></a>
 
 ### ERP & business systems
 
