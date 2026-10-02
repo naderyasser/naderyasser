@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://development-master.com"><img src="https://img.shields.io/badge/Website-development--master.com-111111?style=for-the-badge" alt="Website"></a>
+  <a href="mailto:naderyasser023@gmail.com"><img src="https://img.shields.io/badge/Email-naderyasser023%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/naderyasser"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/naderyasser023"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20contracts-2ea44f?style=for-the-badge" alt="Open to freelance">
@@ -156,5 +157,5 @@ is worth nothing without its key. Extracted from the learning platform above.
 
 <p align="center">
   <b>Have a product to build or rescue?</b><br>
-  Reach me through <a href="https://development-master.com">development-master.com</a> or <a href="https://linkedin.com/in/naderyasser">LinkedIn</a>.
+  Email <a href="mailto:naderyasser023@gmail.com">naderyasser023@gmail.com</a>, or reach me through <a href="https://development-master.com">development-master.com</a> or <a href="https://linkedin.com/in/naderyasser">LinkedIn</a>.
 </p>
