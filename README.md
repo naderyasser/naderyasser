@@ -156,5 +156,5 @@ is worth nothing without its key. Extracted from the learning platform above.
 
 <p align="center">
   <b>Have a product to build or rescue?</b><br>
-  Email <a href="mailto:naderyasser023@gmail.com">naderyasser023@gmail.com</a>, or reach me through <a href="https://development-master.com">development-master.com</a> or <a href="https://linkedin.com/in/naderyasser">LinkedIn</a>.
+  Email <a href="mailto:naderyasser023@gmail.com">naderyasser023@gmail.com</a>, or reach me through <a  <a href="https://linkedin.com/in/naderyasser">LinkedIn</a>.
 </p>
