@@ -1,7 +1,7 @@
 <h1 align="center">Nader Yasser</h1>
 
 <p align="center">
-  <b>Backend &amp; full-stack developer</b> · Django · Laravel · AI products in Arabic
+  <b>Backend &amp; full-stack developer</b> · Django · ERPNext · Laravel · AI products in Arabic
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@
 I take products from an empty repo to a live service with paying users — schema, API, UI, AI,
 servers, monitoring — and I keep them running.
 
-- **Multi-tenant SaaS** — one codebase serving many customers, each on its own subdomain and database schema, with plans, limits, billing and an operator console.
+- **Multi-tenant SaaS and ERP** — one codebase serving many customers, each on its own subdomain, with plans, limits, billing, accounting and an operator console.
 - **AI that answers from sources** — RAG pipelines and tool-calling agents in Arabic, measured with evaluation sets instead of guessed.
 - **Production I own** — Docker, Nginx, PostgreSQL, Redis, Celery and CI/CD on a VPS that hosts 40 live sites, with zero-downtime deploys.
 - **Tested** — the platforms below ship with thousands of automated tests, security cases included.
@@ -31,10 +31,12 @@ servers, monitoring — and I keep them running.
 
 ## Selected work
 
-### [Al-Aref Platforms](https://el3aref.com) — education SaaS for teachers in Egypt
-A teacher signs up and gets a complete learning platform on their own subdomain within minutes:
-protected video courses, timed exams, printed access codes, online and transfer payments, centre
-attendance, parent reports and an AI study assistant.
+### SaaS & AI
+
+#### [White-label Learning Platforms — el3aref.com](https://el3aref.com)
+Education SaaS for teachers in Egypt: a teacher signs up and gets a complete learning platform on
+their own subdomain within minutes — protected video courses, timed exams, printed access codes,
+online and transfer payments, centre attendance, parent reports and an AI study assistant.
 
 - Schema-per-tenant with **django-tenants**, plan limits, trials, subscriptions and an operator console (Next.js)
 - Encrypted HLS video with per-viewer keys, view limits and download-tool detection
@@ -43,7 +45,7 @@ attendance, parent reports and an AI study assistant.
 
 `Django` `DRF` `PostgreSQL` `Redis` `Celery` `Next.js` `Cloudflare R2` `Docker`
 
-### [Customs Import Advisor](https://customs.educore.software) — RAG chatbot for importers
+#### [AI Customs Import Advisor](https://customs.educore.software)
 Ask "can I import product X?" in plain Arabic and get the HS code, required approvals, bans,
 duties and documents — **from official sources only, with citations**. The model is not allowed to
 answer from memory: every code, approval and rate must come from a tool call in the same
@@ -51,7 +53,23 @@ conversation, and the server checks that before saving the answer.
 
 `Python` `RAG` `Tool calling` `Embeddings` `Evaluation sets`
 
-### Silver Gym — ERP for a multi-branch gym chain
+### ERP & business systems
+
+#### Multi-tenant Business ERP — HR · Inventory · Sales · Accounting · POS
+One platform serving many companies, each on its own subdomain with its own branding: HR and
+payroll, biometric attendance, inventory, sales, purchases, accounting, a cashier (POS) and tasks —
+plus a REGA-compliant real-estate marketplace built on the same core.
+
+`Frappe / ERPNext` `Next.js` `React` `TypeScript` `Multi-tenant`
+
+#### Property Management for Saudi Real Estate
+The full rental lifecycle in one system: properties, contracts (create, renew, terminate),
+**ZATCA-compliant tax invoices** with QR codes and Arabic PDFs, Hijri dates, partial payments by
+cash, transfer or cheque, and tenant accounts.
+
+`Arabic RTL` `ZATCA` `Hijri calendar` `PDF` `PostgreSQL`
+
+#### Multi-branch Gym ERP + members' app
 Members, subscriptions, check-ins, branches, staff, finance, sales targets, bookings, recurring
 payments and WhatsApp/SMS/push — plus a gamification engine and an automated retention CRM.
 Three repositories: backend, staff dashboard and a members' PWA.
@@ -60,16 +78,24 @@ Three repositories: backend, staff dashboard and a members' PWA.
 
 `Django` `React` `TypeScript` `PWA` `PostgreSQL`
 
-### [Zkii](https://github.com/naderyasser/zkii) — Arabic AI workspace
-A Notion-style workspace, fully right-to-left, with AI built into the editor (continue, summarize,
-translate, extract tasks — all streaming). Runs on a **local model via Ollama**, so no user data
-leaves the server and there is no API bill.
+#### [Education Centre Management (Bedaya)](https://github.com/naderyasser/SYSeducore)
+Back office for tutoring centres: students, groups, schedules, attendance, monthly fees and
+arrears, teachers' shares and reports. **982 automated tests.**
 
-`Next.js` `BlockNote` `Ollama` `PostgreSQL`
+`Django 5` `PostgreSQL` `Excel exports`
 
-### [django-vidlock](https://github.com/naderyasser/django-vidlock) — open source
+#### [Biometric Attendance — desktop edition](https://github.com/naderyasser/meena-time)
+A one-time-purchase Windows app with the same rules as the cloud attendance system: reads ZKTeco
+fingerprint devices over TCP/UDP, works fully offline on a local SQLite file, and exports Excel and
+PDF reports.
+
+`Electron` `SQLite` `ZKTeco` `Excel / PDF`
+
+### Open source
+
+#### [django-vidlock](https://github.com/naderyasser/django-vidlock)
 Lock course videos in Django: encrypted single-file HLS with rotating keys, so a downloaded video
-is worth nothing without its key. Extracted from the education platform above.
+is worth nothing without its key. Extracted from the learning platform above.
 
 ---
 
@@ -92,6 +118,7 @@ is worth nothing without its key. Extracted from the education platform above.
 
 **Data & AI** &nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![ERPNext](https://img.shields.io/badge/Frappe%20%2F%20ERPNext-0089FF?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
@@ -108,7 +135,7 @@ is worth nothing without its key. Extracted from the education platform above.
 
 ## How I can help
 
-- **A SaaS from zero** — multi-tenant architecture, plans and billing, an admin console, deployed.
+- **A SaaS or an ERP from zero** — multi-tenant architecture, HR, inventory, accounting, plans and billing, deployed.
 - **An AI assistant that is right** — RAG or tool-calling over your own data, in Arabic, with an evaluation set.
 - **A backend for your mobile app** — JWT auth, push, payments, documented APIs.
 - **Rescue and hardening** — security review, tests around the money path, performance, zero-downtime deploys.
