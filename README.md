@@ -12,6 +12,7 @@
   <a href="mailto:naderyasser023@gmail.com"><img src="https://img.shields.io/badge/Email-naderyasser023%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/naderyasser"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/naderyasser023"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://development-master.com"><img src="https://img.shields.io/badge/Website-development--master.com-1F2937?style=for-the-badge" alt="Website"></a>
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20contracts-2ea44f?style=for-the-badge" alt="Open to freelance">
 </p>
 
@@ -24,7 +25,7 @@ servers, monitoring — and I keep them running.
 
 - **Multi-tenant SaaS and ERP** — one codebase serving many customers, each on its own subdomain, with plans, limits, billing, accounting and an operator console.
 - **AI that answers from sources** — RAG pipelines and tool-calling agents in Arabic, measured with evaluation sets instead of guessed.
-- **Production I own** — Docker, Nginx, PostgreSQL, Redis, Celery and CI/CD on a VPS that hosts 40 live sites, with zero-downtime deploys.
+- **Production I own** — Docker, Nginx, PostgreSQL, Redis and Celery on a VPS that hosts 40 live sites, with blue/green deploys and no downtime.
 - **Tested** — the platforms below ship with thousands of automated tests, security cases included.
 
 ---
@@ -41,13 +42,14 @@ their own subdomain within minutes — protected video courses, timed exams, pri
 online and transfer payments, centre attendance, parent reports and an AI study assistant.
 
 - Schema-per-tenant with **django-tenants**, plan limits, trials, subscriptions and an operator console (Next.js)
-- Encrypted HLS video with per-viewer keys, view limits and download-tool detection
+- Encrypted HLS video with rotating keys, view limits and download-tool detection
 - AI study assistant with hybrid RAG over the syllabus + web search, quota per platform
-- **≈93k lines of Python · 2,200+ automated tests · CI deploys with no downtime**
+- WhatsApp sales assistant: answers leads, transcribes voice notes, hands off to a person when it should
+- **≈140k lines of Python · 3,700+ automated tests · blue/green deploys with no downtime**
 
 `Django` `DRF` `PostgreSQL` `Redis` `Celery` `Next.js` `Cloudflare R2` `Docker` · **[Full case study →](https://github.com/naderyasser/case-studies/blob/main/01-learning-platforms-saas.md)**
 
-<a href="https://github.com/naderyasser/case-studies/blob/main/01-learning-platforms-saas.md"><img src="https://raw.githubusercontent.com/naderyasser/case-studies/main/images/learning-platform-home.png" width="640" alt="Al-Aref"></a>
+<a href="https://github.com/naderyasser/case-studies/blob/main/01-learning-platforms-saas.md"><img src="https://raw.githubusercontent.com/naderyasser/case-studies/main/images/learning-platform-home.png" width="640" alt="White-label learning platform home page"></a>
 
 #### [AI Customs Import Advisor](https://customs.educore.software)
 Ask "can I import product X?" in plain Arabic and get the HS code, required approvals, bans,
@@ -57,7 +59,7 @@ conversation, and the server checks that before saving the answer.
 
 `Python` `RAG` `Tool calling` `Embeddings` `Evaluation sets` · **[Full case study →](https://github.com/naderyasser/case-studies/blob/main/02-customs-import-advisor.md)**
 
-<a href="https://github.com/naderyasser/case-studies/blob/main/02-customs-import-advisor.md"><img src="https://raw.githubusercontent.com/naderyasser/case-studies/main/images/customs-advisor.png" width="640" alt="Al-Aref"></a>
+<a href="https://github.com/naderyasser/case-studies/blob/main/02-customs-import-advisor.md"><img src="https://raw.githubusercontent.com/naderyasser/case-studies/main/images/customs-advisor.png" width="640" alt="AI Customs Import Advisor"></a>
 
 ### ERP & business systems
 
@@ -83,6 +85,11 @@ Three repositories: backend, staff dashboard and a members' PWA.
 - **≈36.5k lines of Python across 16 Django apps · 1,200+ tests · ≈16k lines of React/TypeScript**
 
 `Django` `React` `TypeScript` `PWA` `PostgreSQL` · **[Full case study →](https://github.com/naderyasser/case-studies/blob/main/03-gym-erp.md)**
+
+#### [Qawafel — Shipping & Clearance SaaS](https://qawafel.development-master.com)
+A multi-tenant platform for shipping, customs clearance and import offices.
+
+`Django` `django-tenants` `Celery` `Next.js` `Multi-tenant`
 
 #### [Education Centre Management (Bedaya)](https://github.com/naderyasser/SYSeducore)
 Back office for tutoring centres: student files with barcode ID cards, group timetables that
@@ -150,11 +157,6 @@ is worth nothing without its key. Extracted from the learning platform above.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naderyasser&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="150" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naderyasser&layout=compact&hide_border=true&theme=tokyonight" height="150" alt="Top languages">
-</p>
-
-<p align="center">
   <b>Have a product to build or rescue?</b><br>
-  Email <a href="mailto:naderyasser023@gmail.com">naderyasser023@gmail.com</a>, or reach me through <a  <a href="https://linkedin.com/in/naderyasser">LinkedIn</a>.
+  Email <a href="mailto:naderyasser023@gmail.com">naderyasser023@gmail.com</a>, or reach me through <a href="https://linkedin.com/in/naderyasser">LinkedIn</a>.
 </p>
